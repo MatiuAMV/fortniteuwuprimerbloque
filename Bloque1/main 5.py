@@ -1,0 +1,5 @@
+print('how we can act with empathy and positivity when we are online')
+print('acting good and undertanding the others')
+print('dilemas the boy: give the letter or not, the girl: send the message or not, the friend: publish the letter or not')
+print('imagine: if the boy wouldnt give the letter the school wouldnt bully him, if the girl wouldnt send the letter to sher friend the boy would not get out of the school and she will feel better, the friend if she didnt publish the letter bulling would be eliminated')
+print('if the boy failed to send the letter the boy will feel bad')
